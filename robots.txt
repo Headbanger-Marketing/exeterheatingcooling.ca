@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://exeterheatingcooling.ca/sitemap-index.xml
